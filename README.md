@@ -1,6 +1,6 @@
 <h1>DjangoBlog</h1>
 
-<p>DjangoBlog to prosty blog napisany w Django. Projekt ten został stworzony w celu zaprezentowania podstawowych funkcjonalności Django i umożliwienia użytkownikom tworzenia i zarządzania własnymi wpisami na blogu.</p>
+<p>DjangoBlog to prosty blog napisany w Django z kursu ze strefy kursów. Projekt ten został stworzony w celu zaprezentowania podstawowych funkcjonalności Django i umożliwienia użytkownikom tworzenia i zarządzania własnymi wpisami na blogu.</p>
 
 <h2>Funkcjonalności</h2>
 <ul>
@@ -33,3 +33,12 @@
 </ul>
 
 <h2>Poniżej zdjęcia z widoku przeglądarki</h2>
+
+<h4>Widok strony głównej</h4>
+<img src="images/1.png">
+<h4>Widok dodanego wpisu na blogu</h4>
+<img src="images/2.png">
+<h4>Formularz dodający wpis</h4>
+<img src="images/4.png">
+<h4>Widok z panelu administracyjnego</h4>
+<img src="images/3.png">
